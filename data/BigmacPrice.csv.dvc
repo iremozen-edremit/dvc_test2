@@ -1,0 +1,4 @@
+outs:
+- md5: cae2b7d56855f181f388f4043dc65c4e
+  size: 74778
+  path: BigmacPrice.csv
